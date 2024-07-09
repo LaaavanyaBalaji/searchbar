@@ -1,0 +1,17 @@
+input{
+    float: left;
+    height: 40px;
+    margin-left:10px ;
+
+    
+}
+img{
+    height: 35px;
+    width: 35px;
+    float: left;
+}
+.search{
+    background-color: grey;
+    margin: 10px;
+    
+}
